@@ -1,4 +1,4 @@
-![alt text](_gitassets/logo_w.png)
+![](_gitassets/logo_w.png =320x120 )
 
 # beeth9
 Freude! Freude!
